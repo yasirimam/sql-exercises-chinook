@@ -15,7 +15,7 @@ This project explores customer and sales data using the Chinook sample music dat
 
 ## Queries
 
-- [Top 5 Customers by Spend](queries/top_customers.sql)
+- ✅ [Top 5 Customers by Spend](queries/top_customers.sql)
 
 ### Preview:
 
